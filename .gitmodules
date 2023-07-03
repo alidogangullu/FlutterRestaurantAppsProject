@@ -1,0 +1,9 @@
+[submodule "project_mobile"]
+	path = project_mobile
+	url = https://github.com/alidogangullu/project_mobile
+[submodule "project_web"]
+	path = project_web
+	url = https://github.com/alidogangullu/project_web
+[submodule "project_desktop"]
+	path = project_desktop
+	url = https://github.com/alidogangullu/project_desktop
