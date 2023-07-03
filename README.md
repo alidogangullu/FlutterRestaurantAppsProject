@@ -1,4 +1,4 @@
-# FlutterRestaurantAppsProject
+# Flutter Restaurant Apps Project
 
 ## Project Overview
 
